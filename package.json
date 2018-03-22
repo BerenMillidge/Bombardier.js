@@ -1,0 +1,11 @@
+{
+  "name": "bombardier.js",
+  "version": "1.0.0",
+  "description": "Test your javascript functions by bombarding them with a variety of malformed inputs",
+  "main": "bombardier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beren Millidge",
+  "license": "ISC"
+}
